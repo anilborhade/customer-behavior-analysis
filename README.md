@@ -2,7 +2,7 @@
 
 In this project, I developed a comprehensive end-to-end data pipeline utilizing SQL and Python to clean, transform, and load data into Power BI. Leveraging my proficiency in MySQL, Pandas, Matplotlib, and Seaborn, I ensured accurate and efficient data processing to support in-depth analysis.
 
-Through this project, I demonstrated my ability to handle complex data analysis tasks, develop efficient data processing pipelines, and create impactful visualizations to support business intelligence and decision-making.
+Through this project, I demonstrated my ability to handle complex data analysis tasks, develop efficient data processing pipelines, and create impactful visualizations to support business intelligence and decision-making. 
 
 ### Key project highlights include:
 
